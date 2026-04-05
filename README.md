@@ -38,3 +38,6 @@ O objetivo do jogo é pegar o maior número de peixes possível.
 👤 Autor
 
 - André Felipe
+## 📜 Licença
+
+Este projeto está sob a licença Apache 2.0.
