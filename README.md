@@ -23,7 +23,7 @@ O objetivo do jogo é pegar o maior número de peixes possível.
 
 📁 Arquivos
 
-- uma  pesca minimalista.py: Este é o arquivo que contém o código do jogo.
+- codigo-fonte.txt: Este é o arquivo que contém o código do jogo.
 
 🔧 Tecnologias
 
