@@ -13,9 +13,9 @@ Aqui estão os passos para executar o jogo:
 
 - Instale o Python no seu computador.
 
-- Baixe o arquivo chamado pesca.py.
+- Baixe o arquivo chamado Uma pesca minimalista.py.
 
-- Abra o terminal e execute o comando: python pesca.py.
+- Abra o terminal e execute o comando: python  uma pesca minimalista.py.
 
 🎯 Objetivo
 
@@ -23,7 +23,7 @@ O objetivo do jogo é pegar o maior número de peixes possível.
 
 📁 Arquivos
 
-- pesca.py: Este é o arquivo que contém o código do jogo.
+- uma  pesca minimalista.py: Este é o arquivo que contém o código do jogo.
 
 🔧 Tecnologias
 
