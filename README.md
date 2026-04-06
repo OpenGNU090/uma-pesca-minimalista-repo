@@ -3,9 +3,6 @@
 
 Uma descrição curta do projeto, explicando o que ele faz e qual problema resolve.
 
-![Status do Projeto](https://img.shields.io/badge/status-em-desenvolvimento-yellow)
-![Licença](https://img.shields.io/badge/licença-MIT-blue)
-
 ## 📋 Sumário
 
 - [Sobre](#sobre)
